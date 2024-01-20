@@ -1,0 +1,2 @@
+D:\DOTNET Programming\scientific calculator\obj\Debug\scientific calculator.csproj.AssemblyReference.cache
+D:\DOTNET Programming\scientific calculator\obj\Debug\scientific calculator.csproj.CoreCompileInputs.cache
